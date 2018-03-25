@@ -1,0 +1,23 @@
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\bin\Debug\SAD_Project.exe.config
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\bin\Debug\SAD_Project.exe
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\bin\Debug\SAD_Project.pdb
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\bin\Debug\Bunifu_UI_v1.52.DLL
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.AddingSchedule_Form.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.Alert_Dialog.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.Confirmation_Dialog.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Projectogin.Login_Form.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.Main_Form.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.Properties.Resources.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.Splash_Form.resources
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.csproj.GenerateResource.Cache
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.exe.licenses
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.exe
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.pdb
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\obj\Debug\SAD_Project.csprojResolveAssemblyReference.cache
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\bin\Debug\Microsoft.Windows.Design.Interaction.dll
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\bin\Debug\Microsoft.Windows.Design.Interaction.xml
+C:\Users\Dheo Claveria\Documents\Visual Studio 2012\Projects\SAD_Project\SAD_Project\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
+D:\VSPath\Project_Path\speech\SAD_Project\SAD_Project\bin\Debug\SAD_Project.exe.config
+D:\VSPath\Project_Path\speech\SAD_Project\SAD_Project\obj\Debug\SAD_Project.exe
+D:\VSPath\Project_Path\speech\SAD_Project\SAD_Project\obj\Debug\SAD_Project.pdb
